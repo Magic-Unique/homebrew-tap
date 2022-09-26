@@ -6,7 +6,7 @@ class XcodeMatch < Formula
   homepage "https://github.com/Magic-Unique/homebrwe-tap"
   url "https://github.com/Magic-Unique/xcode-match/releases/download/1.0.0/xcode-match"
   version "1.0.0"
-  sha256 "e8af2b250693b04469928dabdaffd624ebf87b1888d1a7ffca49ae33a7e20e46"
+  sha256 "6e0913200e6754abefb48ae1c578aee4825bd8325247f9cc1f58136d66d43982"
 
   # depends_on "cmake" => :build
 
