@@ -4,7 +4,7 @@
 class XcodeMatch < Formula
   desc "Match xcode"
   homepage "https://github.com/Magic-Unique/homebrwe-tap"
-  url "https://github.com/Magic-Unique/xcode-match/archive/refs/tags/1.0.2.zip"
+  url "https://github.com/Magic-Unique/xcode-match/releases/download/1.0.2/xcode-match"
   version "1.0.2"
   sha256 "213f1aec2d1c63e475241fdf1074915f9f5b881f97dcb359cea85c71f6348cce"
 
